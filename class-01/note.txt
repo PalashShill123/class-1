@@ -1,0 +1,27 @@
+
+html
+
+version - htmls5 -
+
+
+
+project 
+	folder - name-> real, daraz-darazwebsite, space
+	file - index.html, contact.html, css, images, font 
+	coding -
+	editor - 
+	template -
+	html - tag element attribute - letter, word, sentence - grammaer - syntex
+
+
+	<!doctype html>
+	<html> 
+
+	<head>
+		link/support -not vis...
+		</head>
+		<body> 
+			contant - vis...
+	</body>
+
+	</html>
